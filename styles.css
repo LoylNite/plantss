@@ -1,0 +1,134 @@
+caption{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+    
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+body {
+    margin: 0px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+th {
+  padding: 20px;
+  text-align: center;
+  font-size: 24px;
+}
+
+td {
+  padding: 5px;
+  font-size: 20px;
+    line-height: 20px;
+}
+
+.nameTd{
+    text-align: center;
+    width: 100px;
+}
+
+.numberTd{
+    text-align: center;
+    width: 25px;
+}
+
+.countTd{
+    text-align: center;
+    width: 25px;
+}
+
+.descriptionTd{
+    width: 1800px;
+    vertical-align:top;
+    
+}
+
+.photoTd{
+    width: 500px;
+
+}
+.imgP{
+    width: 100%;
+    height: auto
+    
+    
+}
+
+.text{
+    height: 100%;
+}
+
+@media (max-width: 620px){
+caption{
+    font-size: 25px;
+    text-align: center;
+    font-weight: 800;
+    
+    margin-bottom: 15px;
+    margin-top: 10px;
+}
+
+body {
+    margin: 0px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+
+th {
+  padding: 1px;
+  text-align: center;
+  font-size: 12px;
+}
+
+td {
+  padding: 1px;
+  font-size: 12px;
+    line-height: 12px;
+}
+
+.nameTd{
+    text-align: center;
+    width: 4%;
+}
+
+.numberTd{
+    text-align: center;
+    width: 3%;
+}
+
+.countTd{
+    text-align: center;
+    width: 3%;
+}
+
+.descriptionTd{
+    width: 40%;
+    vertical-align:top;
+    
+}
+
+.photoTd{
+    width: 50%;
+
+}
+.imgP{
+    width: 100%;
+    height: auto
+    
+    
+}
+
+.text{
+    height: 100%;
+}
+
+
+}
