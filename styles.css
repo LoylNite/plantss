@@ -24,7 +24,7 @@ th {
 td {
   padding: 5px;
   font-size: 20px;
-    line-height: 20px;
+    line-height: 24px;
 }
 
 .nameTd{
@@ -43,13 +43,13 @@ td {
 }
 
 .descriptionTd{
-    width: 1800px;
+    width: 50%;
     vertical-align:top;
     
 }
 
 .photoTd{
-    width: 500px;
+    width: 30%;
 
 }
 .imgP{
@@ -91,7 +91,7 @@ th {
 td {
   padding: 1px;
   font-size: 12px;
-    line-height: 12px;
+    line-height: 16px;
 }
 
 .nameTd{
@@ -110,13 +110,13 @@ td {
 }
 
 .descriptionTd{
-    width: 40%;
+    width: 42%;
     vertical-align:top;
     
 }
 
 .photoTd{
-    width: 50%;
+    width: 48%;
 
 }
 .imgP{
